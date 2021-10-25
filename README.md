@@ -1,1 +1,1 @@
-# single-matrix-s-element-notation-to-pair-notation
+# matrixSingleElement2PairNotation
